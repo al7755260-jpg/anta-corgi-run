@@ -1,0 +1,21 @@
+{
+  "name": "anta-corgi-run",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5178",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5178",
+    "prebuild": "node scripts/restore-assets.mjs"
+  },
+  "dependencies": {
+    "three": "0.180.0",
+    "three-mesh-bvh": "0.9.1",
+    "vite": "7.1.7"
+  },
+  "devDependencies": {
+    "@gltf-transform/cli": "4.2.1",
+    "recast-navigation": "^0.43.1"
+  }
+}

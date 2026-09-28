@@ -1,0 +1,81 @@
+[
+  {
+    "name": "campus-web.glb",
+    "bytes": 18737000,
+    "sha256": "b0ec76735ef499de723b8152386ee6ccf9f54736f0c2c93f8815140ba43c4b6e",
+    "parts": [
+      "campus-web.glb.000.part",
+      "campus-web.glb.001.part",
+      "campus-web.glb.002.part",
+      "campus-web.glb.003.part",
+      "campus-web.glb.004.part",
+      "campus-web.glb.005.part",
+      "campus-web.glb.006.part",
+      "campus-web.glb.007.part",
+      "campus-web.glb.008.part",
+      "campus-web.glb.009.part",
+      "campus-web.glb.010.part",
+      "campus-web.glb.011.part",
+      "campus-web.glb.012.part",
+      "campus-web.glb.013.part",
+      "campus-web.glb.014.part",
+      "campus-web.glb.015.part",
+      "campus-web.glb.016.part",
+      "campus-web.glb.017.part",
+      "campus-web.glb.018.part",
+      "campus-web.glb.019.part",
+      "campus-web.glb.020.part",
+      "campus-web.glb.021.part",
+      "campus-web.glb.022.part",
+      "campus-web.glb.023.part",
+      "campus-web.glb.024.part",
+      "campus-web.glb.025.part",
+      "campus-web.glb.026.part"
+    ]
+  },
+  {
+    "name": "corgi-web.glb",
+    "bytes": 10528952,
+    "sha256": "8cccf9d2413d85db4a60e199e8c6c3fbbe65521bd472014d6a0debe563e9c0d7",
+    "parts": [
+      "corgi-web.glb.000.part",
+      "corgi-web.glb.001.part",
+      "corgi-web.glb.002.part",
+      "corgi-web.glb.003.part",
+      "corgi-web.glb.004.part",
+      "corgi-web.glb.005.part",
+      "corgi-web.glb.006.part",
+      "corgi-web.glb.007.part",
+      "corgi-web.glb.008.part",
+      "corgi-web.glb.009.part",
+      "corgi-web.glb.010.part",
+      "corgi-web.glb.011.part",
+      "corgi-web.glb.012.part",
+      "corgi-web.glb.013.part",
+      "corgi-web.glb.014.part",
+      "corgi-web.glb.015.part"
+    ]
+  },
+  {
+    "name": "finish-arch-web.glb",
+    "bytes": 1948776,
+    "sha256": "bd16406bc228135f8140c0fd0d86b34604d33d12b49ca6b5132a5b08e5d1c42d",
+    "parts": [
+      "finish-arch-web.glb.000.part",
+      "finish-arch-web.glb.001.part",
+      "finish-arch-web.glb.002.part"
+    ]
+  },
+  {
+    "name": "pixel-paw-sprint.m4a",
+    "bytes": 3065302,
+    "sha256": "77ce3478bf9341bf5e62eceeff78b78e0c0028514916163ef7d990619ffe69bf",
+    "parts": [
+      "pixel-paw-sprint.m4a.000.part",
+      "pixel-paw-sprint.m4a.001.part",
+      "pixel-paw-sprint.m4a.002.part",
+      "pixel-paw-sprint.m4a.003.part",
+      "pixel-paw-sprint.m4a.004.part"
+    ]
+  }
+]
